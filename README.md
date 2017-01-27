@@ -6,7 +6,7 @@ EMAIL: playtejasz1996@gmail.com
 
 PROJECT: TWITTER SENTIMENT ANALYSIS FOR BREXIT
 TOOLS: Rstudio, SHINY DASHBOARD
-DEPLOYED AT: https://tejasforchrysalis.shinyapps.io/juggernaut108/
+DEPLOYED AT: https://bvcoepros.shinyapps.io/krishna/
 
 
 PROJECT HIGHLIGHTS:
